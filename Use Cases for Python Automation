@@ -1,18 +1,19 @@
 Automating Workflows with Python Scripts - The technique of making a process operate automatically.
 Python is used for automation by writing scripts. You can automate repetitive tasks like web scraping, file handling, data extraction etc using Python.
 
-Examples include : Automatic PDF to CSV Converter
-1.GUI Automation using Python
-2. Automatic Text to Speech
-3. How to Automatically Convert Images to PDF
-4. How to Automate Playing Random Music
-5. Reading (and writing) files
-6. Sending emails
+Examples include : 
+1.GUI Automation using Python.
+2. Automatic Text to Speech.
+3. How to Automatically Convert Images to PDF.
+4. How to Automate Playing Random Music.
+5. Reading (and writing) files.
+6. Sending emails.
 7. Web Scraping.
 8. Intercating with an API.
-9. Efficiently downloading thousands of images from the internet
-10. Google Search automation
+9. Efficiently downloading thousands of images from the internet.
+10. Google Search automation.
 
+How to do automation to write script for Automatic PDF to CSV Converter:
 ------------------------------------------------------------------------------------------------------------
 How to Automate Tasks Using Python?
 Identify the Task. Identify the task that you want to automate. ...
