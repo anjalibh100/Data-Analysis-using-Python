@@ -13,7 +13,7 @@ Examples include :
 9. Efficiently downloading thousands of images from the internet.
 10. Google Search automation.
 
-How to do automation to write script for Automatic PDF to CSV Converter:
+
 ------------------------------------------------------------------------------------------------------------
 How to Automate Tasks Using Python?
 Identify the Task. Identify the task that you want to automate. ...
@@ -51,3 +51,7 @@ Example 1. GUI and desktop automation using python.
   # types the string passed inside the 
   # function
   pyautogui.typewrite("Geeks For Geeks!") 
+
+Example 2. How to do automation to write script for Automatic PDF to CSV Converter.
+
+
